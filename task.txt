@@ -1,0 +1,9 @@
+Interface
+create student class which has firstname, lastname, age, courses(array of string)
+courses should be a private
+enrol function which pushes a new course to student
+listofcourses functions which list all student courses
+
+bonus : delete one of the courses of the student
+
+
